@@ -13,7 +13,7 @@ The password is never logged to any file, database, etc., other than the [Accoun
 
 [Fabric](https://fabric.io)
 -----------
-*BoardGameGeek for Android* uses the Crashlytics and Answers kits for Fabric.
+*ScorePal* uses the Crashlytics and Answers kits for Fabric.
 These collect and transmit information about your device, log information, and user activity.
 This data is anonymized; we don't collect or transmit any personally identifiable information.
 
